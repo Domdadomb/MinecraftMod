@@ -32,12 +32,15 @@ Currently The features are:
 
 
 Tutorial 
+
   First install 
+  
     - java jdk 8 
     - java jre 8
     - VScode
     - Forge mdk or https://github.com/TechnoVisionDev/Forge-Modding-Tutorial-1.16 a structure generation tutorial mod as there is no other documentation
   
   cmd
+  
     gradlew genVscodeRuns
   

@@ -1,5 +1,5 @@
 # MinecraftMod
-This is a Minecraft mod i'm working on and hope to complete
+This is a Minecraft mod for 1.16.1 i'm working on and hope to complete
 
 By then end it should have: 
 1. Kyber Crystals - Found in the nether at the bottom of lava lakes - Are white originally but you can dye them to produce different colours
@@ -28,3 +28,16 @@ By then end it should have:
 Currently The features are:
 
   NULL
+  
+
+
+Tutorial 
+  First install 
+    - java jdk 8 
+    - java jre 8
+    - VScode
+    - Forge mdk or https://github.com/TechnoVisionDev/Forge-Modding-Tutorial-1.16 a structure generation tutorial mod as there is no other documentation
+  
+  cmd
+    gradlew genVscodeRuns
+  
